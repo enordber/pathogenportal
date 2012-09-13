@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deployments>
+	<deployment>
+		<if-exists>overwrite</if-exists>
+		<parent-ref>PathPort.ADB</parent-ref>
+		<window>
+			<window-name>ADB</window-name>
+			<instance-ref>ADB</instance-ref>
+			<region>main_content_region</region>
+			<height>1</height>
+			<initial-window-state>normal</initial-window-state>
+			<properties>
+				<property>
+					<name>theme.decorationRendererId</name>
+					<value>emptyRenderer</value>
+				</property>
+			</properties>
+		</window>
+	</deployment>
+	
+	<deployment>
+			<if-exists>overwrite</if-exists>
+		<parent-ref>PathPort.Data Set Summary.prc</parent-ref>
+		<window>
+			<window-name>DataSetSummaryPage</window-name>
+			<instance-ref>ADB</instance-ref>
+			<region>main_content_region</region>
+			<height>1</height>
+			<initial-window-state>normal</initial-window-state>
+			<properties>
+				<property>
+					<name>theme.decorationRendererId</name>
+					<value>emptyRenderer</value>
+				</property>
+			</properties>
+		</window>
+		</deployment>
+	
+</deployments>
