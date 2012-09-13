@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deployments>
+	<deployment>
+		<if-exists>overwrite</if-exists>
+		<parent-ref>PathPort.Pathogen</parent-ref>
+		<window>
+			<window-name>PathogenMainWindow</window-name>
+			<instance-ref>Pathogen</instance-ref>
+			<region>main_content_region</region>
+			<height>1</height>
+			<properties>
+				<property>
+					<name>theme.decorationRendererId</name>
+					<value>emptyRenderer</value>
+				</property>
+			</properties>
+		</window>
+	</deployment>
+</deployments>
