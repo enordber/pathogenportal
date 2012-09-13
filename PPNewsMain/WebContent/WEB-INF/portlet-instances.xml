@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<deployments>
+	<deployment>
+		<instance>
+			<instance-id>News</instance-id>
+			<portlet-ref>News</portlet-ref>
+		</instance>
+	</deployment>
+	<deployment>
+		<instance>
+			<instance-id>NewsAPI</instance-id>
+			<portlet-ref>News</portlet-ref>
+		</instance>
+	</deployment>
+</deployments>
