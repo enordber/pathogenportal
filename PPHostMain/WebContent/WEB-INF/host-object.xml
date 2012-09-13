@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deployments>
+	<deployment>
+		<if-exists>overwrite</if-exists>
+		<parent-ref>PathPort.Host</parent-ref>
+		<window>
+			<window-name>HostMainWindow</window-name>
+			<instance-ref>Host</instance-ref>
+			<region>main_content_region</region>
+			<height>1</height>
+			<properties>
+				<property>
+					<name>theme.decorationRendererId</name>
+					<value>emptyRenderer</value>
+				</property>
+			</properties>
+		</window>
+	</deployment>
+</deployments>
