@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/JVM 1.5"/>
+	<classpathentry kind="lib" path="/Users/enordber/vbi/jboss_epp_4.3/jboss-epp-4.3/jboss-as/server/jboss-pathport/lib/jsoup-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/enordber/vbi/jboss_epp_4.3/jboss-epp-4.3/jboss-as/server/jboss-pathport/lib/PortletUtilities.jar"/>
+	<classpathentry kind="lib" path="/Users/enordber/vbi/jboss_epp_4.3/jboss-epp-4.3/jboss-as/server/jboss-pathport/deploy/jboss-portal.sar/lib/portlet-api.jar"/>
+	<classpathentry kind="lib" path="/Users/enordber/vbi/jboss_epp_4.3/jboss-epp-4.3/jboss-as/server/jboss-pathport/lib/poi-3.8-20120326.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
