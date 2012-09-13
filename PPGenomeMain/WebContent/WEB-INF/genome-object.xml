@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deployments>
+	<deployment>
+		<if-exists>overwrite</if-exists>
+		<parent-ref>PathPort.Genome</parent-ref>
+		<window>
+			<window-name>GenomeMainWindow</window-name>
+			<instance-ref>Genome</instance-ref>
+			<region>main_content_full_width_region</region>
+			<height>1</height>
+			<properties>
+				<property>
+					<name>theme.decorationRendererId</name>
+					<value>emptyRenderer</value>
+				</property>
+			</properties>
+		</window>
+	</deployment>
+</deployments>

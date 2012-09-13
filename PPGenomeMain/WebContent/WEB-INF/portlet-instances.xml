@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<deployments>
+	<deployment>
+		<instance>
+			<instance-id>Genome</instance-id>
+			<portlet-ref>Genome</portlet-ref>
+		</instance>
+	</deployment>
+</deployments>

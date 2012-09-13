@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>PPGenomeMain</groupId>
+  <artifactId>PPGenomeMain</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <description></description>
+  <dependencies>
+    <dependency>
+      <groupId>javax.portlet</groupId>
+      <artifactId>portlet-api</artifactId>
+      <version>2.0</version>
+    </dependency>
+  </dependencies>
+</project>
